@@ -1,1 +1,2 @@
-# the_runningtrex
+# PROC18-V3ColorfullTrex
+Colorful Trex
